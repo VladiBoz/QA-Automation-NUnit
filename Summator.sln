@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppSummator", "ConsoleAppSummator\ConsoleAppSummator.csproj", "{07B19146-E504-4E23-87A3-0E3D59916DE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppBasicCalculator", "ConsoleAppSummator\ConsoleAppBasicCalculator.csproj", "{07B19146-E504-4E23-87A3-0E3D59916DE8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummatorTests", "TestSummator\TestSummator\SummatorTests.csproj", "{CA88A99E-F4DB-4539-A21E-47FDAEB7C93E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummatorNunitTests", "TestSummator\TestSummator\SummatorNunitTests.csproj", "{CA88A99E-F4DB-4539-A21E-47FDAEB7C93E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

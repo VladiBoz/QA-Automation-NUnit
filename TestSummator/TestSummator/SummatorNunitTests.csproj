@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ConsoleAppSummator\ConsoleAppSummator.csproj" />
+    <ProjectReference Include="..\..\ConsoleAppSummator\ConsoleAppBasicCalculator.csproj" />
   </ItemGroup>
 
 </Project>
